@@ -1,0 +1,14 @@
+Nome: Washington Luís Santos Bezerra
+RA: 202051247819
+Escolha: RMI
+Justificativa:
+
+Algumas das principais vantagens do RMI são, estabilidade e suporte, o RMI foi lançado no JDK 1.1 (lançado em 1997), ou seja, há um certo tempo e está muito bem consolidação no dia-dia dos desenvolvedores e, consequentemente se encontra ajuda/suporte facilmente em sites e fóruns como no Stack Overflow.
+
+O RMI, funciona com base numa das arquiteturas mais usadas, que é do tipo Cliente-Servidor. O RMI, nos fornece as ferramentas necessárias para que a comunicação entre o cliente e o servidor seja feito de uma forma fácil e segura.
+
+A tecnologia RMI, permite que um objeto que esteja numa Máquina Virtual Java, possa trabalhar com outros objetos de outras Máquina Virtual Java, onde não depende-se da localidade das JVM’s.
+
+Objetos e seus comportamentos que, estão somente em uma Máquina Virtual Java, através do RMI, podem ser transmitidos para uma segunda JVM, essa propriedade do RMI ainda permite que o código seja atualizado de forma dinâmica, não sendo obrigatório executar uma nova compilação, isso facilita muito em aplicações com códigos mais complexos e grande proporção.
+
+Outro ponto a ser levado em consideração, é que nosso App seria multiplataforma, como o RMI é implementado e oriundo do Java, com isso, ele deixa a diferença entre as plataformas menos preocupante, tornando uma ótima solução global para nós, desenvolvedores.
